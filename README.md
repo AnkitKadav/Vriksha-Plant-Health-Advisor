@@ -72,7 +72,7 @@ We welcome contributions to Vriksha! Please follow these steps to contribute:
 
 ## Authors
 
-- **Ashish Kumar**  - [ashish01012001](https://github.com/ashish01012001)
+- **Ankit Kadav**  -(https://github.com/AnkitKadav)
 
 ## License
 
